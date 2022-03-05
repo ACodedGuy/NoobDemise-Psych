@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Retire",
+			"noob",
+			[
+				26,
+				13,
+				113
+			]
+		],
+		[
+			"Moon Stride",
+			"noob",
+			[
+				0,
+				113,
+				53
+			]
+		],
+		[
+			"Oofgonize",
+			"3d-noob",
+			[
+				100,
+				100,
+				133
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "noob's revenge",
+	"weekName": "noob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

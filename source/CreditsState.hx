@@ -79,7 +79,19 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Team'],
+			['Noob Demise Mod Team'],
+			['AllisonCoding',		'allycode',		'Mod Director, Coder, Composer & Modeler',						'https://twitter.com/AllyCoding',	'FF6347'],
+			['Synthic',		'synthic',		'Coder for Noob Demise Mod',						'https://www.youtube.com/channel/UCW_OrqOHKZOVq2pkdQI_lCw',	'1E90FF'],
+			['LarryCroft',		'larrycroft',		'Charter for Noob Demise Mod',						'https://open.spotify.com/user/uqfvcmd2b55klq5qexzevfb4j',	'808080'],
+			['Switch',		'switch',		'Artist for Noob Demise Mod',						'https://twitter.com/Switch99937434',	'FF69B4'],
+			['Sinwalker',		'sinwalker',		'Composer for Noob Demise Mod',						'https://twitter.com/SinwalkerMusic',	'8B008B'],
+			['Bem W',		'bem',		'Beta Tester for Noob Demise Mod',						'https://www.youtube.com/channel/UCgl4d_SxzYZi5GzXZjNhw7w',	'FFFF00'],
+			['John_Daily',		'johndaily',		'Charter for Noob Demise Mod',						'https://twitter.com/JohnDai17259703',	'00008B'],
+			[''],
+			['Creator of Bloxxin X Funkin'],
+			['AbraX',		'abrax',		'Main Creator who did the mod alone',						'https://twitter.com/Abra__X',	'FF6347'],
+			[''],
+            ['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
 			['bb-panzu',			'bb-panzu',			'Additional Programmer of Psych Engine',				'https://twitter.com/bbsub3',			'389A58'],
