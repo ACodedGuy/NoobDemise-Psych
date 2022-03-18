@@ -87,6 +87,8 @@ class CreditsState extends MusicBeatState
 			['Sinwalker',		'sinwalker',		'Composer for Noob Demise Mod',						'https://twitter.com/SinwalkerMusic',	'8B008B'],
 			['Bem W',		'bem',		'Beta Tester for Noob Demise Mod',						'https://www.youtube.com/channel/UCgl4d_SxzYZi5GzXZjNhw7w',	'FFFF00'],
 			['John_Daily',		'johndaily',		'Charter for Noob Demise Mod',						'https://twitter.com/JohnDai17259703',	'00008B'],
+			['DerpyZ2',		'derpy',		'Beta Tester for Noob Demise Mod',						'https://twitter.com/DerpyZ2',	'8A2BE2'],
+			['MiraCatsy',		'miracatsy',		'Artist for Noob Demise Mod',						'https://twitch.tv/miracatzy',	'A9A9A9'],
 			[''],
 			['Creator of Bloxxin X Funkin'],
 			['AbraX',		'abrax',		'Main Creator who did the mod alone',						'https://twitter.com/Abra__X',	'FF6347'],
